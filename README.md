@@ -1,0 +1,2 @@
+# adb_devices_test
+基于python的监测adb是否连接到指定设备上
